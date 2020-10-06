@@ -4,21 +4,17 @@
 
 .leftcolumn {   
   float: left;
-  width: 50%;
+  width: 30%;
 }
 
 /* Right column */
 .rightcolumn {
-  float: left;
-  width: 25%;
+  float: right;
+  width: 30%;
   padding-left: 10px;
 }
 
-.clearight{
-  
-  clear :right;
 
-}
 
 
 .clearboth{
@@ -32,4 +28,49 @@
   text-align: center;
   background: #ddd;
   margin-top: 20px;
+}
+
+/*start the next schedule of items */
+.row:after {
+  content: "";
+  display: table;
+  clear: both
+}
+.column-66 {
+  float: left;
+  width: 66.66666%;
+  padding: 20px;
+}
+
+.large-font {
+  font-size: 48px;
+
+}
+
+.xlarge-font {
+  font-size: 64px
+}
+
+.button {
+  border: none;
+  color: white;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+  background-color: #4CAF50;
+}
+
+.column-33 {
+  float: left;
+  width: 33.33333%;
+  padding: 20px;
+}
+.seventhcompimage{
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto ;
+    width:"335"; 
+    height:"471";
+
 }

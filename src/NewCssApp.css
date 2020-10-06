@@ -33,3 +33,50 @@ th {
   	font-family: Arial;
   	text-align: center;
 }
+
+
+/*necessary for navbar compnent */
+
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+.topnav a {
+  float: left;
+  display: block;
+  color: #00FFFF;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #00FFFF;
+  color: white;
+}
+
+.topnav .icon {
+  display: none;
+}
+
+
+/*end for navbar component */
+
+
+
+/*paragragph wrap for sixth component*/
+
+
+.paragraphwrap{
+    background-color: #00FFFF;
+    width:65%;
+    height:auto;
+    margin:2px auto;
+}
