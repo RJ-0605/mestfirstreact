@@ -7,7 +7,7 @@
  function FirstComponent() {
  	return (
  		<div>
-   			<p className="bigblue"> Hi there </p>
+   			<p className="bigblue"> Welcome To Sample Post </p>
  		</div>
 
  	);
