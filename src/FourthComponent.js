@@ -8,7 +8,7 @@
  function FourthComponent() {
  	return (
  		<div >
-   			<p className="bigblue"> What We About </p>
+   			<p className="bigblue" style={{color:"MediumSeaGreen"}}> What We About </p>
  		</div>
 
  	);

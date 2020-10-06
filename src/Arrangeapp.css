@@ -32,6 +32,13 @@
 }
 
 /*start the next schedule of items */
+.container {
+  background-color:white;
+  width :80%;
+  height:auto;
+  margin:auto;
+  padding: 64px;
+}
 .row:after {
   content: "";
   display: table;

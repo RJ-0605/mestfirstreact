@@ -1,7 +1,7 @@
 
  
  import React from 'react';
- import dogpic from './doggie.jpg';
+ import blur from './blur.jpg';
  import './NewCssApp.css';
  import './Arrangeapp.css';
 
@@ -19,7 +19,7 @@
 				      <button className="button">Download Application</button>
 				    </div>
 					    <div className="column-33">
-					    <img src={dogpic} className=".seventhcompimage"  />
+					    <img src={blur} className=".seventhcompimage"  />
 	        				
 	    				</div>
 			    </div>
