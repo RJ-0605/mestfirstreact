@@ -32,6 +32,7 @@ import './Arrangeapp.css';
 				  <tr>
 				    <td>Cleveland</td>
 				    <td>Brown</td>
+				    <td>Brown</td>
 				    <td>$250</td>
 				  </tr>
 			</table>
